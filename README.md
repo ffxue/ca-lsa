@@ -10,7 +10,7 @@ The Content Analysis by Latent Semantic Analysis (LSA) is a quick and free softw
 
 First, please convert the documents to a text file. All the words in a document should appear in one line, with all symbols (e.g., commas, periods, and quotes) removed. See the "txt/docs-20180703.txt" file for a sample.
 
-Then, you can define a list of keywords, see the "cat-20180630.txt" for a sample. In case there are synonymous terms or alternative words, please append them to the same line of keywords using a semi-colon (;) as the delimiter.
+Then, you can define a list of keywords, see the "txt/cat-20180630.txt" for a sample. In case there are synonymous terms or alternative words, please append them to the same line of keywords using a semi-colon (;) as the delimiter.
 
 # Install
 
